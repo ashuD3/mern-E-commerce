@@ -32,11 +32,12 @@ app.use(
     },
   })
 );
+
 app.use("/user", require("./routes/userRouts"));
 app.use("/order", require("./routes/orderRoute"));
 app.use("/cart", require("./routes/cartRoute"));
 
-app.use("/employe",require("./routes/employeRouts"));
+app.use("/employe", require("./routes/employeRouts"));
 app.use("/auth", require("./routes/authRoute"));
 app.use("/products", require("./routes/productRoutes"));
 
