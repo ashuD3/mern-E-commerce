@@ -1,0 +1,8 @@
+24-03-2023 	 16:41:42	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:41:41	OPTIONS	/user/profile	http://localhost:3000
+24-03-2023 	 16:37:57	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:37:57	OPTIONS	/user/profile	http://localhost:3000
+24-03-2023 	 16:33:40	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:33:40	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:33:39	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:33:36	GET	/user/profile	http://localhost:3000
